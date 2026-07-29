@@ -1,0 +1,11 @@
+path: ./dataset_final  # dataset root dir
+train: images/train
+val: images/val
+
+# Classes
+names:
+  0: one_bottle
+  1: multiple_bottle
+  2: bad_lighting
+  3: occlusion
+  4: cracked
