@@ -1,0 +1,61 @@
+{
+  "trial": "Fully Automated (YOLO + SAM) \u2013 Batch 2",
+  "batch": 2,
+  "num_images": 10,
+  "total_time_s": 77.9131,
+  "total_time_min": 1.2986,
+  "avg_time_per_image_s": 7.7913,
+  "total_detections": 13,
+  "per_image": [
+    {
+      "image": "24_jpg.rf.4975b100684ca6cb137ecf4742a09112.jpg",
+      "time_s": 7.0764,
+      "detections": 1
+    },
+    {
+      "image": "4-42413_water-bottle-png-images-free-download-water-bottle_png.rf.6f92f3c9789d73c5fa5068bd1603c365.jpg",
+      "time_s": 5.9045,
+      "detections": 1
+    },
+    {
+      "image": "400101_jpg.rf.268d5b02aa45229f958a50b8adcd4348.jpg",
+      "time_s": 27.4973,
+      "detections": 5
+    },
+    {
+      "image": "bottle-134-_JPG.rf.54025a0f7ac8019ff98e2c093e9674d1.jpg",
+      "time_s": 6.1563,
+      "detections": 1
+    },
+    {
+      "image": "bottle-173-_JPG.rf.59667a33ccea49c897f7f4d833d2dbb1.jpg",
+      "time_s": 6.1211,
+      "detections": 1
+    },
+    {
+      "image": "bottle-176-_JPG.rf.31382c33cd821af56e5d347ed44bedb5.jpg",
+      "time_s": 6.0843,
+      "detections": 1
+    },
+    {
+      "image": "bottle-294-_JPG.rf.66fcba36ebdf955bc05c9fe0d8745636.jpg",
+      "time_s": 0.1689,
+      "detections": 0
+    },
+    {
+      "image": "bottle-46-_JPG.rf.baeda47a4b286a73599c31a930d5a469.jpg",
+      "time_s": 6.2717,
+      "detections": 1
+    },
+    {
+      "image": "bottle-482-_JPG.rf.288b403f62c3d7ff1e336cf1f33acbd3.jpg",
+      "time_s": 6.073,
+      "detections": 1
+    },
+    {
+      "image": "bottle-525-_JPG.rf.3a2211238cc404fa69158a8600bf277d.jpg",
+      "time_s": 6.1328,
+      "detections": 1
+    }
+  ]
+}

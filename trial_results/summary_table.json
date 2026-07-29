@@ -1,0 +1,91 @@
+{
+  "description": "Table 3: Time Efficiency Comparison (10 images per trial)",
+  "rows": [
+    {
+      "method": "Manual (Polygon)",
+      "trials": [
+        {
+          "trial": 1,
+          "time_min": 20.2358,
+          "avg_iou": 1.0
+        },
+        {
+          "trial": 2,
+          "time_min": 16.0754,
+          "avg_iou": 1.0
+        },
+        {
+          "trial": 3,
+          "time_min": 15.9605,
+          "avg_iou": 1.0
+        }
+      ]
+    },
+    {
+      "method": "Fully Automated (YOLO+SAM)",
+      "trials": [
+        {
+          "trial": 1,
+          "time_min": 1.6256,
+          "avg_iou": 0.8305
+        },
+        {
+          "trial": 2,
+          "time_min": 1.2986,
+          "avg_iou": 0.8728
+        },
+        {
+          "trial": 3,
+          "time_min": 1.4377,
+          "avg_iou": 0.8529
+        }
+      ]
+    },
+    {
+      "method": "Hybrid (YOLO+SAM)",
+      "trials": [
+        {
+          "trial": 1,
+          "time_min": 2.5409,
+          "avg_iou": 0.9285
+        },
+        {
+          "trial": 2,
+          "time_min": 2.0486,
+          "avg_iou": 0.9692
+        },
+        {
+          "trial": 3,
+          "time_min": 1.9598,
+          "avg_iou": 0.9473
+        }
+      ]
+    }
+  ],
+  "methods": [
+    {
+      "name": "Manual (Polygon)",
+      "avg_iou": 1.0,
+      "avg_iou_pct": 100.0,
+      "total_time_min": 52.271699999999996,
+      "avg_time_s": null,
+      "note": "Ground-truth baseline"
+    },
+    {
+      "name": "Fully Automated (YOLO+SAM)",
+      "avg_iou": 0.8521,
+      "avg_iou_pct": 85.2,
+      "total_time_min": 4.3619,
+      "avg_time_s": null,
+      "note": "No human input"
+    },
+    {
+      "name": "Hybrid (Human-in-the-Loop)",
+      "avg_iou": 0.9484,
+      "avg_iou_pct": 94.8,
+      "total_time_min": 6.549300000000001,
+      "avg_time_s": null,
+      "note": "Human bounding box + SAM polygon"
+    }
+  ]
+}

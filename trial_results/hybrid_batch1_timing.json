@@ -1,0 +1,63 @@
+{
+  "trial": "Hybrid (Human-in-the-Loop + SAM) \u2013 Batch 1",
+  "batch": 1,
+  "num_images": 10,
+  "total_wall_time_s": 152.4555,
+  "total_wall_time_min": 2.5409,
+  "total_time_min": 2.5409,
+  "avg_active_time_per_image_s": 9.1222,
+  "avg_time_per_image_s": 9.1222,
+  "images_saved": 10,
+  "per_image": [
+    {
+      "image": "000001_jpg.rf.a2db17fe3becba39f268ef981a3edb84.jpg",
+      "time_s": 26.3668,
+      "objects": 5
+    },
+    {
+      "image": "000019_JPG.rf.af8bfca8e7990dc201295e509570e808.jpg",
+      "time_s": 4.7074,
+      "objects": 1
+    },
+    {
+      "image": "100023_jpg.rf.fed3f1672283eee1e3fb719f9d5d8605.jpg",
+      "time_s": 5.631,
+      "objects": 1
+    },
+    {
+      "image": "100054_jpg.rf.d70fa1657a629bbc5444c23795133a3b.jpg",
+      "time_s": 7.3601,
+      "objects": 1
+    },
+    {
+      "image": "100177_jpg.rf.1df59dfa05f50ec45440e60ce37e7e79.jpg",
+      "time_s": 4.3235,
+      "objects": 1
+    },
+    {
+      "image": "115_jpg.rf.745720d2b49246f17c42eaf3791a289d.jpg",
+      "time_s": 4.6346,
+      "objects": 1
+    },
+    {
+      "image": "15_jpg.rf.1078cf7c3d510db5cfacf23da72976c2.jpg",
+      "time_s": 3.7031,
+      "objects": 1
+    },
+    {
+      "image": "200007_jpg.rf.893bfe97ef837dddd01740ea41f7af47.jpg",
+      "time_s": 11.0296,
+      "objects": 2
+    },
+    {
+      "image": "200054_jpg.rf.46518b5ccb2a9489e5adf5c7f60c26b9.jpg",
+      "time_s": 10.1733,
+      "objects": 2
+    },
+    {
+      "image": "200099_jpg.rf.b9c08198e094c8244fca6db9223c1914.jpg",
+      "time_s": 13.2929,
+      "objects": 3
+    }
+  ]
+}

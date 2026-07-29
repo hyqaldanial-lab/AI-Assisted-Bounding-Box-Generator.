@@ -1,0 +1,63 @@
+{
+  "trial": "Hybrid (Human-in-the-Loop + SAM) \u2013 Batch 3",
+  "batch": 3,
+  "num_images": 10,
+  "total_wall_time_s": 117.5879,
+  "total_wall_time_min": 1.9598,
+  "total_time_min": 1.9598,
+  "avg_active_time_per_image_s": 5.3893,
+  "avg_time_per_image_s": 5.3893,
+  "images_saved": 10,
+  "per_image": [
+    {
+      "image": "bottle-56-_JPG.rf.821f8bf088f17e8baf3f4665e2fb7ca7.jpg",
+      "time_s": 7.1741,
+      "objects": 1
+    },
+    {
+      "image": "bottle-649-_JPG.rf.8b8eef8c9eaae3d67fb7dc7a0d91f6b2.jpg",
+      "time_s": 5.005,
+      "objects": 1
+    },
+    {
+      "image": "bottle-653-_JPG.rf.f91e1f8cd32b3f9e8d47b56833a5ccbd.jpg",
+      "time_s": 5.3497,
+      "objects": 1
+    },
+    {
+      "image": "bottle-716-_jpg.rf.80b054c351a3f20af9404ee33e3101d2.jpg",
+      "time_s": 4.668,
+      "objects": 1
+    },
+    {
+      "image": "bottle-778-_jpg.rf.5906de583fbdf68e978de49649842756.jpg",
+      "time_s": 4.7368,
+      "objects": 1
+    },
+    {
+      "image": "bottle-86-_JPG.rf.6c50adbd72d9b65376a9f9438b9c669e.jpg",
+      "time_s": 4.5642,
+      "objects": 1
+    },
+    {
+      "image": "plastic-573-_JPG.rf.e8de6862931a80bc3e7a1334b28ed2a0.jpg",
+      "time_s": 5.6333,
+      "objects": 1
+    },
+    {
+      "image": "plastic-763-_JPG.rf.aebc09a99aa674bd19f9139410bf002c.jpg",
+      "time_s": 5.0362,
+      "objects": 1
+    },
+    {
+      "image": "plastic-772-_JPG.rf.ce69b04c4c0c4ea496dac9188a6d10a3.jpg",
+      "time_s": 6.5267,
+      "objects": 1
+    },
+    {
+      "image": "plastic-bottle-waste-garbage-forest-environment-trash-rubbish-woodland-save-nature-ecology-pollution-concept-215276525_jpg.rf.6be351976703526c54ce252431087f72.jpg",
+      "time_s": 5.1991,
+      "objects": 1
+    }
+  ]
+}

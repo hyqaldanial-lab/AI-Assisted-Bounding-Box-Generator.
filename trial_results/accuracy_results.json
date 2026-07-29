@@ -1,0 +1,190 @@
+{
+  "overall_auto_avg_iou": 0.8521,
+  "overall_hybrid_avg_iou": 0.9484,
+  "manual_avg_iou": 1.0,
+  "batches": [
+    {
+      "batch": 1,
+      "num_images": 10,
+      "manual_time_min": 20.2358,
+      "auto_time_min": 1.6256,
+      "hybrid_time_min": 2.5409,
+      "auto_avg_iou": 0.8305,
+      "hybrid_avg_iou": 0.9285,
+      "per_image": [
+        {
+          "image": "000001_jpg.rf.a2db17fe3becba39f268ef981a3edb84.txt",
+          "auto_iou": 0.3951,
+          "hybrid_iou": 0.7544
+        },
+        {
+          "image": "000019_JPG.rf.af8bfca8e7990dc201295e509570e808.txt",
+          "auto_iou": 0.9694,
+          "hybrid_iou": 0.9737
+        },
+        {
+          "image": "100023_jpg.rf.fed3f1672283eee1e3fb719f9d5d8605.txt",
+          "auto_iou": 0.9819,
+          "hybrid_iou": 0.9803
+        },
+        {
+          "image": "100054_jpg.rf.d70fa1657a629bbc5444c23795133a3b.txt",
+          "auto_iou": 0.9433,
+          "hybrid_iou": 0.9461
+        },
+        {
+          "image": "100177_jpg.rf.1df59dfa05f50ec45440e60ce37e7e79.txt",
+          "auto_iou": 0.9741,
+          "hybrid_iou": 0.9753
+        },
+        {
+          "image": "115_jpg.rf.745720d2b49246f17c42eaf3791a289d.txt",
+          "auto_iou": 0.9823,
+          "hybrid_iou": 0.984
+        },
+        {
+          "image": "15_jpg.rf.1078cf7c3d510db5cfacf23da72976c2.txt",
+          "auto_iou": 0.9846,
+          "hybrid_iou": 0.9854
+        },
+        {
+          "image": "200007_jpg.rf.893bfe97ef837dddd01740ea41f7af47.txt",
+          "auto_iou": 0.6604,
+          "hybrid_iou": 0.7375
+        },
+        {
+          "image": "200054_jpg.rf.46518b5ccb2a9489e5adf5c7f60c26b9.txt",
+          "auto_iou": 0.4302,
+          "hybrid_iou": 0.9646
+        },
+        {
+          "image": "200099_jpg.rf.b9c08198e094c8244fca6db9223c1914.txt",
+          "auto_iou": 0.9842,
+          "hybrid_iou": 0.9839
+        }
+      ]
+    },
+    {
+      "batch": 2,
+      "num_images": 10,
+      "manual_time_min": 16.0754,
+      "auto_time_min": 1.2986,
+      "hybrid_time_min": 2.0486,
+      "auto_avg_iou": 0.8728,
+      "hybrid_avg_iou": 0.9692,
+      "per_image": [
+        {
+          "image": "24_jpg.rf.4975b100684ca6cb137ecf4742a09112.txt",
+          "auto_iou": 0.9854,
+          "hybrid_iou": 0.9851
+        },
+        {
+          "image": "4-42413_water-bottle-png-images-free-download-water-bottle_png.rf.6f92f3c9789d73c5fa5068bd1603c365.txt",
+          "auto_iou": 0.9836,
+          "hybrid_iou": 0.9847
+        },
+        {
+          "image": "400101_jpg.rf.268d5b02aa45229f958a50b8adcd4348.txt",
+          "auto_iou": 0.9682,
+          "hybrid_iou": 0.9686
+        },
+        {
+          "image": "bottle-134-_JPG.rf.54025a0f7ac8019ff98e2c093e9674d1.txt",
+          "auto_iou": 0.9509,
+          "hybrid_iou": 0.9495
+        },
+        {
+          "image": "bottle-173-_JPG.rf.59667a33ccea49c897f7f4d833d2dbb1.txt",
+          "auto_iou": 0.9689,
+          "hybrid_iou": 0.9678
+        },
+        {
+          "image": "bottle-176-_JPG.rf.31382c33cd821af56e5d347ed44bedb5.txt",
+          "auto_iou": 0.9647,
+          "hybrid_iou": 0.9628
+        },
+        {
+          "image": "bottle-294-_JPG.rf.66fcba36ebdf955bc05c9fe0d8745636.txt",
+          "auto_iou": 0.0,
+          "hybrid_iou": 0.9765
+        },
+        {
+          "image": "bottle-46-_JPG.rf.baeda47a4b286a73599c31a930d5a469.txt",
+          "auto_iou": 0.9601,
+          "hybrid_iou": 0.9521
+        },
+        {
+          "image": "bottle-482-_JPG.rf.288b403f62c3d7ff1e336cf1f33acbd3.txt",
+          "auto_iou": 0.9667,
+          "hybrid_iou": 0.9639
+        },
+        {
+          "image": "bottle-525-_JPG.rf.3a2211238cc404fa69158a8600bf277d.txt",
+          "auto_iou": 0.9799,
+          "hybrid_iou": 0.9808
+        }
+      ]
+    },
+    {
+      "batch": 3,
+      "num_images": 10,
+      "manual_time_min": 15.9605,
+      "auto_time_min": 1.4377,
+      "hybrid_time_min": 1.9598,
+      "auto_avg_iou": 0.8529,
+      "hybrid_avg_iou": 0.9473,
+      "per_image": [
+        {
+          "image": "bottle-56-_JPG.rf.821f8bf088f17e8baf3f4665e2fb7ca7.txt",
+          "auto_iou": 0.9716,
+          "hybrid_iou": 0.9698
+        },
+        {
+          "image": "bottle-649-_JPG.rf.8b8eef8c9eaae3d67fb7dc7a0d91f6b2.txt",
+          "auto_iou": 0.9398,
+          "hybrid_iou": 0.9381
+        },
+        {
+          "image": "bottle-653-_JPG.rf.f91e1f8cd32b3f9e8d47b56833a5ccbd.txt",
+          "auto_iou": 0.928,
+          "hybrid_iou": 0.9255
+        },
+        {
+          "image": "bottle-716-_jpg.rf.80b054c351a3f20af9404ee33e3101d2.txt",
+          "auto_iou": 0.8314,
+          "hybrid_iou": 0.8318
+        },
+        {
+          "image": "bottle-778-_jpg.rf.5906de583fbdf68e978de49649842756.txt",
+          "auto_iou": 0.9694,
+          "hybrid_iou": 0.9719
+        },
+        {
+          "image": "bottle-86-_JPG.rf.6c50adbd72d9b65376a9f9438b9c669e.txt",
+          "auto_iou": 0.9833,
+          "hybrid_iou": 0.9836
+        },
+        {
+          "image": "plastic-573-_JPG.rf.e8de6862931a80bc3e7a1334b28ed2a0.txt",
+          "auto_iou": 0.9844,
+          "hybrid_iou": 0.9848
+        },
+        {
+          "image": "plastic-763-_JPG.rf.aebc09a99aa674bd19f9139410bf002c.txt",
+          "auto_iou": 0.9746,
+          "hybrid_iou": 0.9806
+        },
+        {
+          "image": "plastic-772-_JPG.rf.ce69b04c4c0c4ea496dac9188a6d10a3.txt",
+          "auto_iou": 0.9468,
+          "hybrid_iou": 0.9469
+        },
+        {
+          "image": "plastic-bottle-waste-garbage-forest-environment-trash-rubbish-woodland-save-nature-ecology-pollution-concept-215276525_jpg.rf.6be351976703526c54ce252431087f72.txt",
+          "auto_iou": 0.0,
+          "hybrid_iou": 0.9407
+        }
+      ]
+    }
+  ]
+}
