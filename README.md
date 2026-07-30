@@ -7,7 +7,6 @@
 [![YOLOv11](https://img.shields.io/badge/YOLOv11-Ultralytics-00FFFF?style=for-the-badge)](https://github.com/ultralytics/ultralytics)
 [![SAM](https://img.shields.io/badge/SAM-Meta%20AI-0467DF?style=for-the-badge)](https://github.com/facebookresearch/segment-anything)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 *Final Year Project — B.Eng. Electrical & Electronic Engineering*
 
