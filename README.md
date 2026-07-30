@@ -319,17 +319,11 @@ python evaluation/test_final.py
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
 <div align="center">
 
 **Muhammad Haiqal Danial bin Mohamad Rasid**
 B.Eng. Electrical & Electronic Engineering
-| Final Year Project 2025/2026*
+| Final Year Project 2025/2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/haiqalrasid)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/hyqaldanial-lab)
